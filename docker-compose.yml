@@ -1,0 +1,12 @@
+version: '3'
+
+services:
+  exchange-rates-app-container:
+    image: exchange-rates-app:1
+    build:
+      context: ./
+      dockerfile: Dockerfile
+    volumes:
+      - /data/springboot-docker-compose-app
+    ports:
+      - "8081:8080"
