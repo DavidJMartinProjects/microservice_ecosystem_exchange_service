@@ -1,0 +1,9 @@
+exchange_rates/ExchangeRatesApplication.class
+exchange_rates/business/ExchangeImpl.class
+exchange_rates/domain/ExchangeRates.class
+exchange_rates/web/ExchangeControllerImpl.class
+exchange_rates/service/ExchangeService.class
+exchange_rates/business/Exchange.class
+exchange_rates/web/ExchangeController.class
+exchange_rates/config/ExchangeRateConfig.class
+exchange_rates/service/ExchangeServiceImpl.class

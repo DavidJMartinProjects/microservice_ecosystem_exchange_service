@@ -1,0 +1,5 @@
+urls:
+   currency:
+      exchangeApiUrl: https://api.exchangeratesapi.io/latest
+       
+      

@@ -1,0 +1,9 @@
+/home/david/Documents/microservice-ecosystem/microservice_ecosystem_exchange_service/src/main/java/exchange_rates/business/ExchangeImpl.java
+/home/david/Documents/microservice-ecosystem/microservice_ecosystem_exchange_service/src/main/java/exchange_rates/web/ExchangeController.java
+/home/david/Documents/microservice-ecosystem/microservice_ecosystem_exchange_service/src/main/java/exchange_rates/service/ExchangeServiceImpl.java
+/home/david/Documents/microservice-ecosystem/microservice_ecosystem_exchange_service/src/main/java/exchange_rates/service/ExchangeService.java
+/home/david/Documents/microservice-ecosystem/microservice_ecosystem_exchange_service/src/main/java/exchange_rates/config/ExchangeRateConfig.java
+/home/david/Documents/microservice-ecosystem/microservice_ecosystem_exchange_service/src/main/java/exchange_rates/ExchangeRatesApplication.java
+/home/david/Documents/microservice-ecosystem/microservice_ecosystem_exchange_service/src/main/java/exchange_rates/domain/ExchangeRates.java
+/home/david/Documents/microservice-ecosystem/microservice_ecosystem_exchange_service/src/main/java/exchange_rates/web/ExchangeControllerImpl.java
+/home/david/Documents/microservice-ecosystem/microservice_ecosystem_exchange_service/src/main/java/exchange_rates/business/Exchange.java
